@@ -1,9 +1,9 @@
 # 💫 About Me:
-🚀 Software Development Engineer @ Juno
-Backend Engineer passionate about building scalable, high-impact systems at the intersection of AI, Blockchain, and Automation.
-🧠 Designed and developed AI-powered recommendation engines, focusing on personalization, performance, and data-driven insights.
-🔗 Collaborated on MemeCoin creation on the Solana blockchain, gaining hands-on experience with decentralized systems, smart contracts, and token ecosystems.
-⚙️ Strong interest in system architecture, scalability, and optimization, with a continuous learning mindset toward high-availability and distributed systems.
+🚀 Software Development Engineer @Juno<br>
+Backend Engineer passionate about building scalable, high-impact systems at the intersection of AI, Blockchain, and Automation.<br>
+🧠 Designed and developed AI-powered recommendation engines, focusing on personalization, performance, and data-driven insights.<br>
+🔗 Collaborated on MemeCoin creation on the Solana blockchain, gaining hands-on experience with decentralized systems, smart contracts, and token ecosystems.<br>
+⚙️ Strong interest in system architecture, scalability, and optimization, with a continuous learning mindset toward high-availability and distributed systems.<br>
 💡 Always eager to solve complex problems, build production-ready solutions, and contribute to fast-moving engineering teams.<br>
 
 ## 🌐 Socials:
