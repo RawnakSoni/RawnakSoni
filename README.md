@@ -1,6 +1,10 @@
 # 💫 About Me:
-Software Development Engineer @Juno<br>Backend Engineer<br>Building at the intersection of AI, Blockchain & Automation<br>Collaborated in MemeCoin Creation on Solana Chain<br>Designed and Developed AI powered Recommendation Engine<br>Learning Scalability and Optimisation
-
+🚀 Software Development Engineer @ Juno
+Backend Engineer passionate about building scalable, high-impact systems at the intersection of AI, Blockchain, and Automation.
+🧠 Designed and developed AI-powered recommendation engines, focusing on personalization, performance, and data-driven insights.
+🔗 Collaborated on MemeCoin creation on the Solana blockchain, gaining hands-on experience with decentralized systems, smart contracts, and token ecosystems.
+⚙️ Strong interest in system architecture, scalability, and optimization, with a continuous learning mindset toward high-availability and distributed systems.
+💡 Always eager to solve complex problems, build production-ready solutions, and contribute to fast-moving engineering teams.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rawnak.soni) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rawnksoni) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RawnakSoni) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sonironak284@gmail.com) 
